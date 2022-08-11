@@ -2640,7 +2640,7 @@ input, select, textarea {
 		}
 
 		.image.left, .image.right {
-			width: 40%;
+			width: 60%;
 			max-width: 10rem;
 		}
 
@@ -8601,3 +8601,70 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+#mealin-img, #syncedup-img, #space-img{
+	width: 720px;
+}
+
+#mealin-section, #syncedup-section,  #space-section{
+	height: 400px;
+	overflow: hidden;
+}
+
+/* .icon {
+	border: 1px solid lightgray;
+	height: 70px;
+	width: 70px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+} */
+/* 
+.items{
+		margin: 0px;
+			padding: 0px;
+	
+}
+
+.items > section{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 0px;
+}
+
+.items>section>div{
+	margin: 0px;
+	padding: 0px;
+}
+
+.items>section > h3 {
+	margin: 0px;
+	padding: 0px;
+	
+
+}
+
+.icon-container{
+	border: 1px solid red;
+		display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+
+} */
+
+i {
+	font-size: 30px;
+}
+
+#links{
+	margin-top: 100px;
+}
+
+#links p {
+	font-size: 15px;
+}
